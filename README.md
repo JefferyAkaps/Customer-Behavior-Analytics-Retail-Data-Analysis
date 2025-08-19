@@ -12,7 +12,7 @@ This project demonstrates end-to-end analytics: transforming raw Excel data into
 This equips leadership to shift from broad-market tactics to customer-centric strategies, driving targeted marketing, efficient acquisition, and sustainable growth.
 
 ## 🗃️ Data Structure 
-Customer Analytics Database consists of four normalized relational tables: Customers, Products, Orders, and OrderDetails, with a total of 541,909 original records spanning comprehensive retail transaction data. Following advanced data quality engineering and ETL optimization, the production database contains 397,884 clean records (73.4% retention rate), demonstrating rigorous data governance standards and professional data pipeline management.
+Customer Analytics Database as seen below consists of four normalized relational tables: Customers, Products, Orders, and OrderDetails, with a total of 541,909 original records spanning comprehensive retail transaction data. Following advanced data quality engineering and ETL optimization, the production database contains 397,884 clean records (73.4% retention rate), demonstrating rigorous data governance standards and professional data pipeline management.
 
 <div align="center">
   <img src="IMAGES/Database_Diagram.png" alt="Database Diagram" width="80%">
