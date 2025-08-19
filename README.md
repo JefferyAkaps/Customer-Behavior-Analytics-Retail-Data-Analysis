@@ -83,12 +83,13 @@ Based on the uncovered insights, the following recommendations have been provide
 ## 📈 Project Links
 
 ### **SQL Analysis Files**
-- **Database Setup:** [Database structure and table schemas](./SQL/Database%20Setup%20and%20Table%20Schemas.sql)
-- **Data Quality Validation:** [Data integrity and quality checks](./SQL/Data%20Quality%20Validation.sql)
-- **Customer Segmentation:** [Customer analysis and segmentation queries](./SQL/Customer%20Segmentation%20Queries.sql)
-- **Analytics Views:** [Business intelligence views and analytics](./SQL/Analytics%20Views.sql)
+- **Database Setup:** [Database structure and table schemas](https://github.com/JefferyAkaps/Customer-Behavior-Analytics-Retail-Data-Analysis/blob/main/SQL_QUERIES/Database%20Setup%20and%20Table%20Schemas.sql)
+- **Data Quality Validation:** [Data integrity and quality checks](https://github.com/JefferyAkaps/Customer-Behavior-Analytics-Retail-Data-Analysis/blob/main/SQL_QUERIES/Data%20Quality%20Validation.sql)
+- **Customer Segmentation:** [Customer analysis and segmentation queries](https://github.com/JefferyAkaps/Customer-Behavior-Analytics-Retail-Data-Analysis/blob/main/SQL_QUERIES/Customer%20Segmentation%20Queries.sql)
+- **Analytics Views:** [Business intelligence views and analytics](https://github.com/JefferyAkaps/Customer-Behavior-Analytics-Retail-Data-Analysis/blob/main/SQL_QUERIES/Analytics%20Views.sql)
 
 ### **R Analysis Files**
-- **ETL Pipeline:** [Customer analytics data processing pipeline](./R/Customer%20Analytics%20ETL%20Pipeline.R)
-- **Dashboard Export:** [PowerBI dashboard data export script](./R/PowerBI%20Dashboard%20Export.R)
+- **ETL Pipeline:** [Customer analytics data processing pipeline](https://github.com/JefferyAkaps/Customer-Behavior-Analytics-Retail-Data-Analysis/blob/main/R_Scripts/Customer%20Analytics%20ETL%20Pipeline.R)
+- **Dashboard Export:** [PowerBI dashboard data export script](https://github.com/JefferyAkaps/Customer-Behavior-Analytics-Retail-Data-Analysis/blob/main/R_Scripts/PowerBI%20Dashboard%20Export.R)
+
 
