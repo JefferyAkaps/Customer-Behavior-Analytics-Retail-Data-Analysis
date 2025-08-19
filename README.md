@@ -14,6 +14,10 @@ This equips leadership to shift from broad-market tactics to customer-centric st
 ## 🗃️ Data Structure 
 Customer Analytics Database consists of four normalized relational tables: Customers, Products, Orders, and OrderDetails, with a total of 541,909 original records spanning comprehensive retail transaction data. Following advanced data quality engineering and ETL optimization, the production database contains 397,884 clean records (73.4% retention rate), demonstrating rigorous data governance standards and professional data pipeline management.
 
+<div align="center">
+  <img src="IMAGES/Database_Diagram.png" alt="Database Diagram" width="80%">
+</div>
+
 ## 💼 Executive Summary
 
 ### Overview of Findings
@@ -23,6 +27,10 @@ Key metrics reinforce strong performance: average customer value $2,054 and a 65
 2.	High Value – 1,393 customers, $2,155 average value, 33.7% revenue contribution
 3.	Medium Value – 909 customers, $715 average value, 7.3% revenue contribution
 Together, VIP and High-Value segments form just 38.6% of the base but generate 87.6% of revenue ($7.8M), offering compelling ROI for premium marketing and personalized experience strategies.Geographic insights reveal concentrated high-value clusters across 37+ countries, guiding international expansion and market penetration strategies. The accompanying dashboard visualizes customer value distribution, geographic performance, and behavioral segmentation to support data-driven growth decisions.
+
+<div align="center">
+  <img src="IMAGES/Dashboard.png" alt="Dashboard Overview" width="80%">
+</div>
 
 ## 📊 Customer Value & Segmentation Intelligence
 Analysis reveals an exceptionally concentrated value structure with major opportunities for precision-targeted marketing. The VIP tier is led by the top 20 customers averaging $134K+ lifetime value (some exceeding $280K) across markets like the Netherlands, UK, and Ireland. These ultra-high-value customers show long-term loyalty, purchasing 700+ unique products over multiple years, validating premium positioning.
