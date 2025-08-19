@@ -22,11 +22,18 @@ Customer Analytics Database as seen below consists of four normalized relational
 
 ### Overview of Findings
 Customer analytics highlight major opportunities for targeted marketing and customer relationship optimization within a strong global retail operation. With 4,338 active customers across 37 markets generating $8.91M annual revenue, the business shows both scale and depth. Notably, 6.3% of customers (275 VIPs) contribute 53.9% of revenue ($4.8M)—a clear case for precision-targeted marketing and lifetime value optimization.
-Key metrics reinforce strong performance: average customer value $2,054 and a 65.6% repeat rate, reflecting brand loyalty and scalability of customer-centric strategies. The analysis reveals three critical customer value segments with exceptional profitability metrics that significantly exceed industry benchmarks:
+Key metrics reinforce strong performance: average customer value $2,054 and a 65.6% repeat rate, reflecting brand loyalty and scalability of customer-centric strategies.
+
+The analysis reveals four critical customer value segments with exceptional profitability metrics that significantly exceed industry benchmarks:
+
 1.	VIP Customers – 275 customers, $17,461 average value, 53.9% revenue contribution
 2.	High Value – 1,393 customers, $2,155 average value, 33.7% revenue contribution
 3.	Medium Value – 909 customers, $715 average value, 7.3% revenue contribution
-Together, VIP and High-Value segments form just 38.6% of the base but generate 87.6% of revenue ($7.8M), offering compelling ROI for premium marketing and personalized experience strategies.Geographic insights reveal concentrated high-value clusters across 37+ countries, guiding international expansion and market penetration strategies. The accompanying dashboard visualizes customer value distribution, geographic performance, and behavioral segmentation to support data-driven growth decisions.
+4.	Low Value -1761 customers, $260 average value, 5.1% revenue contribution
+   
+Together, VIP and High-Value segments form just 38.6% of the base but generate 87.6% of revenue ($7.8M), offering compelling ROI for premium marketing and personalized experience strategies. Geographic insights reveal concentrated high-value clusters across 37+ countries, guiding international expansion and market penetration strategies. 
+
+The accompanying dashboard visualizes customer value distribution, geographic performance, and behavioral segmentation to support data-driven growth decisions.
 
 <div align="center">
   <img src="IMAGES/Dashboard.png" alt="Dashboard Overview" width="80%">
