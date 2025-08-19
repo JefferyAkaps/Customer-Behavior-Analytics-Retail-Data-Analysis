@@ -79,3 +79,16 @@ Based on the uncovered insights, the following recommendations have been provide
 
 •	 Execute Geographic Premium Market Expansion: Prioritize Nordic markets (Norway $3,616 per customer, 30% VIP rate) and high-performing European markets (Netherlands $5,698 per customer, 100% long-term retention) for customer acquisition investments. These premium markets demonstrate 2.5x higher customer values and superior loyalty metrics, offering optimal ROI for targeted marketing spend and market penetration strategies.
 
+
+## 📈 Project Links
+
+### **SQL Analysis Files**
+- **Database Setup:** [Database structure and table schemas](./SQL/Database%20Setup%20and%20Table%20Schemas.sql)
+- **Data Quality Validation:** [Data integrity and quality checks](./SQL/Data%20Quality%20Validation.sql)
+- **Customer Segmentation:** [Customer analysis and segmentation queries](./SQL/Customer%20Segmentation%20Queries.sql)
+- **Analytics Views:** [Business intelligence views and analytics](./SQL/Analytics%20Views.sql)
+
+### **R Analysis Files**
+- **ETL Pipeline:** [Customer analytics data processing pipeline](./R/Customer%20Analytics%20ETL%20Pipeline.R)
+- **Dashboard Export:** [PowerBI dashboard data export script](./R/PowerBI%20Dashboard%20Export.R)
+
