@@ -4,7 +4,8 @@
 An online retailer operating in 37+ countries with 540,000+ transactions aims to strengthen customer relationships and refine targeted marketing strategies. Leveraging transaction data on sales, customer behavior, geography, and product preferences, this project delivers data-driven insights to identify high-value customers and maximize lifetime value through segmentation.
 This project demonstrates **end-to-end analytics**: transforming raw Excel data into a structured MySQL database, applying data quality management in R, and building executive-ready Business Intelligence dashboards in Power BI.
 
- Key Insights
+ **Key Insights**
+ 
 •	**Customer Value & Segmentation**: Identified VIP customers and high-value segments, enabling precision-targeted campaigns and lifetime value optimization.
 
 •	**Geographic Intelligence & Loyalty**: Analyzed purchase frequency, timing, and regional trends across 37+ countries to inform expansion and resource allocation.
